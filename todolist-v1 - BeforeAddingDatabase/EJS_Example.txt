@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+           
+
+
+            <!-- <% switch (kindOfDay) {
+                case "Monday" : %>
+                    <h1 style="color:blueviolet;"><%= kindOfDay %> ToDo List! </h1>
+                    <% break;
+                
+                case "Tuesday" : %>
+                    <h1 style="color:aqua;"><%= kindOfDay %> ToDo List! </h1>
+                    <% break;
+                
+                case "Wednesday" : %>
+                    <h1 style="color:greenyellow;"><%= kindOfDay %> ToDo List! </h1>
+                    <% break;
+
+                case "Thursday" : %>
+                    <h1 style="color:hotpink;"><%= kindOfDay %> ToDo List! </h1>
+                    <% break;
+
+                case "Friday" : %>
+                    <h1 style="color:orangered;"><%= kindOfDay %> ToDo List! </h1>
+                    <% break;
+                
+                case "Saturday" : %>
+                    <h1 style="color:teal;"><%= kindOfDay %> ToDo List! </h1>
+                    <% break;
+
+                case "Tuesday" : %>
+                    <h1 style="color:yellow"><%= kindOfDay %> ToDo List! </h1>
+                    <% break;
+
+                } %>
+            
+
+        <h1>It's <%= kindOfDay %>!</h1>
+        <p>Why are you not working!</p> -->
+        
+<h1>It's <%= kindOfDay %>!</h1>
+
+        
+        <script src="" async defer></script>
+    </body>
+</html>

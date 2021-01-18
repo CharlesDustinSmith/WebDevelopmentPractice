@@ -1,0 +1,12 @@
+<%- include("partials/header") %> 
+
+<h1>Home</h1>
+<p><%= content %> </p>
+
+<% post.forEach(function(object) { %>
+    <h1><%= object.postTitle %></h1>
+    <p><%= object.getPost(100) %> href="posts/<%= object.postTitle %> ">Read More</a></p>
+<% }); %>
+
+<%- include("partials/footer") %> 
+
